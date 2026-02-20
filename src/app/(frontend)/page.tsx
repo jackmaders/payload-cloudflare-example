@@ -36,7 +36,7 @@ export default async function HomePage() {
             rel="noopener noreferrer"
             target="_blank"
           >
-            Go to admin panel
+            Go to admin panel TEST
           </a>
           <a
             className="docs"
